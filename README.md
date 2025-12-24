@@ -20,7 +20,7 @@ Daily practice problems + mini projects
 https://github.com/vinay-2006/python-fundamentals
 
 ## Connect With Me
-(You can add LinkedIn later once built)
+linkedin >> https://www.linkedin.com/in/vinay-boppidi-b5216b351/
 ## Hi there 👋
 
 <!--
