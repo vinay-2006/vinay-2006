@@ -2,7 +2,7 @@
 
 Bridging the gap between Mathematical Theory and Production-Ready Python.
 I build well-documented machine-learning systems and data experiments grounded in strong mathematical reasoning and clean Python implementations.  
-This repository is my **professional GitHub profile** — a curated showcase of projects, learning notebooks, and practical implementations demonstrating skills in Python, data analysis, and machin[...]
+This repository is my **professional GitHub profile** — a curated showcase of projects, learning notebooks, and practical implementations demonstrating skills in Python, data analysis, and machin[...] 
  
 ---
  
@@ -14,36 +14,14 @@ This repository is my **professional GitHub profile** — a curated showcase of 
 ---
  
 ## 📌 Selected projects & highlights
- 
-### 🐍 Python Fundamentals  
-🔗 https://github.com/vinay-2006/python-fundamentals  
-- Day-wise Python practice problems and mini-projects to strengthen programming fundamentals and Pythonic problem-solving.  
-- **What to look for:** clean, readable scripts and bite-sized projects demonstrating mastery of core language features.
- 
----
- 
-### 📊 Data Analysis Basics  
-🔗 https://github.com/vinay-2006/data-analysis-basics  
-- Focused on data cleaning, exploration, and NumPy/Pandas experiments.  
-- Step-by-step notebooks showing realistic data-preparation and EDA workflows.  
-- **What to look for:** real-world data-cleaning patterns, reproducible EDA, and practical preparation for modeling.
- 
----
- 
-### 🧠 ML Math Foundations  
-🔗 https://github.com/vinay-2006/ml-math-foundations  
-- Notebooks explaining the mathematical foundations used across modern ML: vectors, calculus, probability, and optimization.  
-- Concepts are paired with intuition, derivations, and visual examples.  
-- **What to look for:** rigorous explanations that translate mathematics into executable code.
- 
----
- 
-### ⚙️ ML From Scratch (NumPy Only)  
-🔗 https://github.com/vinay-2006/ml-from-scratch  
-- Core machine-learning algorithms implemented from first principles using NumPy.  
-- Includes full training loops, loss functions, gradients, and evaluation.  
-- **What to look for:** conceptual clarity, minimal dependencies, and readable implementations designed for experimentation.
- 
+
+| Project | Tech | Key Achievement |
+|---|---|---|
+| ML From Scratch | NumPy, Python | Implemented core ML algorithms (linear & logistic regression) from first principles with full training loops, loss and gradient computations; reproducible experiments. |
+| ML Math Foundations | Jupyter Notebooks, Python | Translate mathematical foundations (vectors, calculus, probability, optimization) into concise derivations and executable code. |
+| Data Analysis Basics | Pandas, NumPy, Jupyter | Reproducible EDA and data-cleaning workflows; practical preprocessing patterns for modeling. |
+| Python Fundamentals | Python | Practice problems and mini-projects demonstrating clean, readable, Pythonic implementations and scripting. |
+
 ---
  
 ## 🧩 Technical skills
@@ -78,9 +56,8 @@ This repository is my **professional GitHub profile** — a curated showcase of 
  
 ---
  
-## 📬 Get in touch
-- 💻 **GitHub:** https://github.com/vinay-2006  
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/vinay-boppidi-b5216b351/  
-- ✉️ **Email:** boppidivinayred@gmail.com
- 
+## 📬 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinay-boppidi-b5216b351/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:boppidivinayred@gmail.com)
 This profile is actively maintained as I continue building and refining **clear, correct, and reviewable** machine-learning systems.
+```
