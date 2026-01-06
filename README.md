@@ -80,7 +80,7 @@ This repository is my **professional GitHub profile** — a curated showcase of 
  
 ## 📬 Get in touch
 - 💻 **GitHub:** https://github.com/vinay-2006  
-- 🔗 **LinkedIn:** (add your LinkedIn URL here)  
-- ✉️ **Email:** (add your email here)
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/vinay-boppidi-b5216b351/  
+- ✉️ **Email:** boppidivinayred@gmail.com
  
 This profile is actively maintained as I continue building and refining **clear, correct, and reviewable** machine-learning systems.
