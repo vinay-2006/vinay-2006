@@ -59,5 +59,7 @@ This repository is my **professional GitHub profile** — a curated showcase of 
 ## 📬 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinay-boppidi-b5216b351/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:boppidivinayred@gmail.com)
+
+
 This profile is actively maintained as I continue building and refining **clear, correct, and reviewable** machine-learning systems.
 ```
